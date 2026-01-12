@@ -1,0 +1,2053 @@
+{
+  "test_timestamp": "2026-01-12T22:26:48.448112",
+  "vehicle_id": "TEST_VEHICLE_001",
+  "mileage": 45230.20452492424,
+  "sensor_history": [
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 802.89,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:11.347308"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 24.83,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:11.347408"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 84.7,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:11.347455"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 1.91,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:11.347495"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.48,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:11.347545"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.42,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:11.347590"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.21,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:11.347630"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 0.73,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:11.347669"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 79.68,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:11.347706"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 26.32,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:11.347752"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 794.35,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:12.348158"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 25.01,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:12.348195"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 85.32,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:12.348220"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 0.0,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:12.348242"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.84,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:12.348270"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.98,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:12.348296"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.05,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:12.348318"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 0.68,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:12.348340"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 80.43,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:12.348361"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 26.23,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:12.348382"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 769.87,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:13.349095"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 25.29,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:13.349132"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 84.92,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:13.349155"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 0.38,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:13.349176"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.28,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:13.349207"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.91,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:13.349241"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.4,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:13.349273"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 0.54,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:13.349302"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 79.87,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:13.349324"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 25.76,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:13.349345"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 762.9,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:14.350248"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 22.54,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:14.350314"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 84.65,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:14.350359"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 0.0,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:14.350402"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.36,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:14.350477"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.59,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:14.350529"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.93,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:14.350578"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 0.7,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:14.350626"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 81.17,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:14.350677"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 26.71,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:14.350727"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 798.35,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:15.352474"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 24.61,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:15.352533"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 84.33,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:15.352570"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 1.99,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:15.352608"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.96,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:15.352652"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.82,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:15.352696"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.8,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:15.352735"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 0.67,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:15.352772"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 79.48,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:15.352808"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 27.88,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:15.352843"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 808.37,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:17.354017"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 25.93,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:17.354066"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 84.5,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:17.354104"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 1.4,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:17.354143"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.1,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:17.354177"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.65,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:17.354202"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.7,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:17.354234"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 0.57,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:17.354257"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 80.29,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:17.354279"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 26.32,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:17.354299"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 816.52,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:18.369584"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 26.72,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:18.369625"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 86.74,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:18.369654"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 7.79,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:18.369680"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.24,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:18.369711"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.45,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:18.369742"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.4,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:18.369775"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 1.92,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:18.369806"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 80.06,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:18.369834"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 26.96,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:18.369860"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 918.98,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:19.370606"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 26.36,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:19.370657"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 87.33,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:19.370701"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 15.56,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:19.370735"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.42,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:19.370776"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.22,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:19.370820"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.9,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:19.370857"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 3.1,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:19.370892"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 81.92,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:19.370927"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 25.63,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:19.370960"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 1060.38,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:20.371786"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 33.11,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:20.371820"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 88.35,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:20.371843"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 20.0,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:20.371867"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.81,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:20.371892"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.76,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:20.371916"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.84,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:20.371939"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 4.38,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:20.371960"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 81.13,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:20.371981"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 28.42,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:20.372001"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 1227.03,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:21.372447"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 35.91,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:21.372480"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 90.99,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:21.372503"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 26.07,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:21.372524"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.78,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:21.372549"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.92,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:21.372582"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.68,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:21.372605"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 5.81,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:21.372626"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 82.8,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:21.372647"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 29.31,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:21.372667"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 1485.46,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:22.373400"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 43.81,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:22.373457"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 92.05,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:22.373496"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 35.22,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:22.373533"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.21,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:22.373578"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.52,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:22.373622"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.46,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:22.373666"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 7.12,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:22.373705"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 82.83,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:22.373741"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 32.51,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:22.373777"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 1667.38,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:23.374554"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 52.15,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:23.374606"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 95.42,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:23.374642"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 43.29,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:23.374676"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.34,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:23.374716"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.42,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:23.374755"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.84,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:23.374793"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.5,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:23.374829"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 83.93,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:23.374862"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 32.43,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:23.374912"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 1980.82,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:24.375832"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 59.72,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:24.375884"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 97.56,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:24.375941"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 50.26,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:24.375978"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.76,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:24.376021"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.89,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:24.376070"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.42,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:24.376136"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 9.88,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:24.376233"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 83.05,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:24.376280"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 35.44,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:24.376328"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2259.01,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:25.377031"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 68.93,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:25.377083"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 102.06,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:25.377120"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 56.87,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:25.377155"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.42,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:25.377196"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.43,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:25.377235"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.77,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:25.377272"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 11.43,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:25.377308"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 84.36,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:25.377342"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 38.2,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:25.377375"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2536.24,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:26.378094"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 77.96,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:26.378148"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 103.77,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:26.378187"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 64.75,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:26.378665"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.54,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:26.378716"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.88,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:26.378759"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.58,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:26.378798"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 12.77,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:26.378837"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 85.13,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:26.378873"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 37.62,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:26.378909"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2731.93,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:28.380298"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 46.0,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:28.380351"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 106.24,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:28.380387"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 34.13,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:28.380410"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.46,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:28.380436"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.36,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:28.380461"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.5,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:28.380485"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.21,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:28.380514"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 87.26,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:28.380537"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 38.55,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:28.380559"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2661.98,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:29.381282"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 44.85,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:29.381343"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 107.27,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:29.381384"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 35.61,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:29.381420"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.49,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:29.381465"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.38,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:29.381491"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.8,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:29.381514"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.17,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:29.381536"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 88.34,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:29.381557"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 38.7,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:29.381578"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2665.44,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:30.382557"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 43.66,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:30.382611"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 107.36,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:30.382643"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 35.98,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:30.382686"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.0,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:30.382730"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.45,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:30.382758"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.54,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:30.382785"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.09,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:30.382808"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 88.0,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:30.382830"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 38.9,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:30.382852"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2670.82,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:31.383365"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 44.74,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:31.383422"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 107.12,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:31.383461"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 33.96,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:31.383508"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.55,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:31.383555"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.38,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:31.383594"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.98,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:31.383630"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.23,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:31.383665"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 88.32,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:31.383700"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 39.82,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:31.383734"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2712.0,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:32.384412"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 45.56,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:32.384471"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 107.55,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:32.384512"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 36.02,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:32.384550"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.14,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:32.384599"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.86,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:32.384641"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.88,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:32.384680"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.18,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:32.384730"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 86.78,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:32.384768"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 39.52,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:32.384805"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2662.88,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:33.385526"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 45.57,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:33.385592"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 106.78,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:33.385637"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 33.65,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:33.385679"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.04,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:33.385733"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.97,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:33.385780"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.71,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:33.385845"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.11,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:33.385897"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 86.89,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:33.385944"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 40.33,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:33.385989"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2702.88,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:34.387090"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 45.36,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:34.387150"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 106.37,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:34.387183"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 34.08,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:34.387212"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.44,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:34.387264"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.54,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:34.387299"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.4,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:34.387333"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.1,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:34.387363"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 87.8,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:34.387391"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 41.86,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:34.387417"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2735.81,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:35.388268"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 45.31,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:35.388329"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 106.38,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:35.388367"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 35.32,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:35.388402"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.7,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:35.388461"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.75,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:35.388500"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.81,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:35.388537"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.15,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:35.388572"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 87.63,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:35.388628"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 39.16,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:35.388663"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2737.01,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:36.401510"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 43.18,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:36.401552"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 106.21,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:36.401580"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 36.23,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:36.401605"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.06,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:36.401637"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.96,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:36.401665"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.16,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:36.401694"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.24,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:36.401719"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 88.47,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:36.401744"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 41.78,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:36.401769"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 2674.66,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:37.404242"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 44.75,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:37.404280"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 107.21,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:37.404303"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 35.97,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:37.404325"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 14.88,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:37.404361"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.5,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:37.404397"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.09,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:37.404424"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 8.18,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:37.404448"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 88.32,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:37.404470"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 39.38,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:37.404491"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 3218.99,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:39.405525"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 94.43,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:39.405907"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 112.58,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:39.406028"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 64.54,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:39.406084"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.21,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:39.406125"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.78,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:39.406151"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.8,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:39.406174"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 13.27,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:39.406197"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 89.86,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:39.406217"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 45.13,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:39.406238"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 3229.75,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:40.406678"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 96.47,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:40.406715"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 113.25,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:40.406738"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 62.03,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:40.406760"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.99,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:40.406788"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.8,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:40.406813"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.45,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:40.406836"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 13.41,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:40.406858"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 89.42,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:40.406879"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 42.44,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:40.406900"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 3189.01,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:41.407685"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 95.68,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:41.407769"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 112.04,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:41.407831"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 62.55,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:41.407886"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.28,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:41.407946"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.78,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:41.408004"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.81,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:41.408078"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 13.43,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:41.408117"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 90.25,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:41.408152"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 45.07,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:41.408191"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 3230.8,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:42.409084"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 93.87,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:42.409121"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 112.82,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:42.409144"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 62.84,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:42.409165"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.67,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:42.409195"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.98,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:42.409221"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 4.85,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:42.409244"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 13.3,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:42.409266"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 90.24,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:42.409287"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 42.72,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:42.409308"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 3201.94,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:43.410295"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 95.13,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:43.410342"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 113.16,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:43.410366"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 63.19,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:43.410387"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.99,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:43.410415"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.5,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:43.410440"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.4,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:43.410463"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 13.28,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:43.410485"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 89.3,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:43.410506"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 42.41,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:43.410526"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 3159.46,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:44.411349"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 94.25,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:44.411386"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 111.68,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:44.411409"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 62.91,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:44.411431"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.56,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:44.411460"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.37,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:44.411485"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.3,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:44.411508"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 13.25,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:44.411530"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 89.81,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:44.411551"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 41.44,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:44.411572"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 3157.23,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:45.412453"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 95.29,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:45.412514"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 112.18,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:45.412557"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 61.67,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:45.412594"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.39,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:45.412642"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 24.82,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:45.412684"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.08,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:45.412724"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 13.44,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:45.412762"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 89.58,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:45.412799"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 42.38,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:45.412834"
+      }
+    },
+    {
+      "RPM": {
+        "command": "RPM",
+        "value": 3168.12,
+        "unit": "rpm",
+        "timestamp": "2026-01-12T22:26:46.413654"
+      },
+      "SPEED": {
+        "command": "SPEED",
+        "value": 97.4,
+        "unit": "km/h",
+        "timestamp": "2026-01-12T22:26:46.413712"
+      },
+      "COOLANT_TEMP": {
+        "command": "COOLANT_TEMP",
+        "value": 112.0,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:46.413880"
+      },
+      "ENGINE_LOAD": {
+        "command": "ENGINE_LOAD",
+        "value": 64.74,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:46.413972"
+      },
+      "THROTTLE_POS": {
+        "command": "THROTTLE_POS",
+        "value": 15.3,
+        "unit": "%",
+        "timestamp": "2026-01-12T22:26:46.414041"
+      },
+      "INTAKE_TEMP": {
+        "command": "INTAKE_TEMP",
+        "value": 25.14,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:46.414110"
+      },
+      "MAF": {
+        "command": "MAF",
+        "value": 5.34,
+        "unit": "g/s",
+        "timestamp": "2026-01-12T22:26:46.414165"
+      },
+      "FUEL_RATE": {
+        "command": "FUEL_RATE",
+        "value": 13.42,
+        "unit": "L/h",
+        "timestamp": "2026-01-12T22:26:46.414212"
+      },
+      "OIL_TEMP": {
+        "command": "OIL_TEMP",
+        "value": 90.53,
+        "unit": "\u00b0C",
+        "timestamp": "2026-01-12T22:26:46.414255"
+      },
+      "OIL_PRESSURE": {
+        "command": "OIL_PRESSURE",
+        "value": 43.98,
+        "unit": "psi",
+        "timestamp": "2026-01-12T22:26:46.414298"
+      }
+    }
+  ]
+}
